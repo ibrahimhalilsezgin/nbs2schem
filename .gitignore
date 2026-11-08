@@ -1,0 +1,7 @@
+/target
+*.schem
+*.schematic
+*.nbt
+*.nbs
+*.mid
+*.midi
